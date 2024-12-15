@@ -1,22 +1,22 @@
 = Solutions for ❆ Advent of Code ❆
-
+☃️ Welcome!
 :showtitle:
 :toc: auto
 :toclevels: 3
 
-== What is this? 🎄
+== 🎄 What is this?
 
 It is a collection of my quickly made up solutions for the puzzles found each year in https://adventofcode.com[Advent of Code].
 
 IMPORTANT: The pieces of source code for these puzzles are not meant to be perfect, optimised for speed or resource usage - only that they output the correct answer for the given exercises.
 
-== Progression 🎀
+== 🎀 Progression
 
-NOTE: a.k.a number of stars ⭐ collected.
+NOTE: a.k.a number of stars ⭐ collected each year.
 
 Each puzzle has two parts and solving one part gives one star, thus 2 stars per exercise.
 
-* 2024 ( 6/50)
+* 2024 (12/50)
 * 2023 ( 2/50)
 * 2022 ( 0/50)
 * 2021 ( 0/50)
