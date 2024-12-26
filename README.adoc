@@ -16,7 +16,7 @@ NOTE: a.k.a number of stars ⭐ collected each year.
 
 Each puzzle has two parts and solving one part gives one star, thus 2 stars per exercise.
 
-* 2024 (18/50)
+* 2024 (20/50)
 * 2023 ( 2/50)
 * 2022 ( 0/50)
 * 2021 ( 0/50)
